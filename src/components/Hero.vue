@@ -49,7 +49,7 @@
             </div>
             <div class="sm:text-center lg:text-left pt-5">
               <p>
-                <a href="https://medium.com/@wichertn">👋 Check out some articles I've written</a>
+                <a href="https://medium.com/@wichertn">👋 Check out articles I've written</a>
               </p>
             </div>
           </div>
