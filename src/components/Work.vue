@@ -45,7 +45,7 @@
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
         <div class="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/4dLdncv9/Screen-Shot-2022-07-03-at-8-33-47-PM.png" alt="Inbox user interface">
+          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/4dLdncv9/Screen-Shot-2022-07-03-at-8-33-47-PM.png" alt="Job Map">
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
         <div class="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/5NmPzJhW/Survey-Captive.png" alt="Inbox user interface">
+          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/5NmPzJhW/Survey-Captive.png" alt="Customer Survey">
         </div>
       </div>
     </div>
@@ -120,7 +120,7 @@
       </div>
       <div class="mt-12 sm:mt-16 lg:mt-0">
         <div class="pl-4 -mr-48 sm:pl-6 md:-mr-16 lg:px-0 lg:m-0 lg:relative lg:h-full">
-          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/nh6vWw7h/Screen-Shot-2022-07-05-at-10-26-39-AM.png" alt="Inbox user interface">
+          <img class="w-full rounded-xl shadow-xl ring-1 ring-black ring-opacity-5 lg:absolute lg:left-0 lg:h-full lg:w-auto lg:max-w-none" src="https://i.postimg.cc/nh6vWw7h/Screen-Shot-2022-07-05-at-10-26-39-AM.png" alt="Data Insights">
         </div>
       </div>
     </div>
